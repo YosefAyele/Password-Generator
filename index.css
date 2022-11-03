@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    color:white;
+    background:#1F2937;
+    width:550px;
+    height:550px;
+    margin:0 50px;
+    text-align: center;
+}
+#title{
+    color:aquamarine;
+}
+.btn{
+    background:#4ADF86;
+    color:whitesmoke;
+    padding:8px 15px;
+    border-radius:8px;
+    margin-bottom:40px;
+}
+#res{
+    display:flex;
+    border-top:1px dashed whitesmoke;
+    justify-content: space-around;
+}
+.reses{
+   margin:20px 0px;
+   background: #273549;
+   border: 1px #273549 solid; 
+   padding: 5px 15px;
+   border-radius:7px;
+}
